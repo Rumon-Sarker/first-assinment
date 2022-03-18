@@ -72,10 +72,15 @@ h1{
     border-left: solid 10px #15dd62; 
     box-shadow: 10px 10px 10px #5f60b4;
     border-radius: 10px;
- 
-   
-   
 }
+ 
+.last{
+    border-left: solid 10px #15dd62; 
+    box-shadow: 10px 10px 10px #5f60b4;
+    border-radius: 10px;
+}   
+   
+
 footer{
     
     text-align: center;
@@ -83,4 +88,9 @@ footer{
 }
 span{
     color:orangered;
+}
+.apple{
+    width: 350px;
+    
+    padding-left: 50px;
 }
